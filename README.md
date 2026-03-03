@@ -1,3 +1,5 @@
+[![.NET](https://github.com/MarkWithall/OregonTrail/actions/workflows/dotnet.yml/badge.svg)](https://github.com/MarkWithall/OregonTrail/actions/workflows/dotnet.yml)
+
 # Oregon Trail - A C# Refactoring Exercise
 
 Contained in this repository is a conversion of the original Oregon Trail basic program (or, at least, a very early version).
